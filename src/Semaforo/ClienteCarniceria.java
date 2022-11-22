@@ -1,3 +1,5 @@
+package Semaforo;
+
 import java.util.concurrent.Semaphore;
 
 public class ClienteCarniceria implements Runnable{
